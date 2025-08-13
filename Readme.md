@@ -31,5 +31,6 @@ For practice, you can also download student datasets from:
 ## 📦 Installation
 First, clone the repository:
 ```bash
-git clone https://github.com/<your-username>/Day1_Basic_Data_Analysis.git
+git clone https://github.com/Raja-Hassan-Raza/Day1_Basic_Data_Analysis.git
 cd Day1_Basic_Data_Analysis
+
