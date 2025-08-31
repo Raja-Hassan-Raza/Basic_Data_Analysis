@@ -1,5 +1,4 @@
-# 📊 Day 1 – Basic Data Analysis  
-Part of the **30 Days AI/ML Project**
+# Basic Data Analysis  
 
 ---
 
@@ -33,4 +32,5 @@ First, clone the repository:
 ```bash
 git clone https://github.com/Raja-Hassan-Raza/Day1_Basic_Data_Analysis.git
 cd Day1_Basic_Data_Analysis
+
 
